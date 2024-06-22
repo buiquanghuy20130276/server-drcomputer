@@ -8,9 +8,9 @@ spring:
         globally_quoted_identifiers: true
         dialect: org.hibernate.dialect.MySQLDialect
   datasource:
-    url: jdbc:mysql://localhost/drcomputer
-    username: root
-    password:
+    url: jdbc:mysql://sql.freedb.tech/freedb_quanghuyfs
+    username: freedb_quanghuyfs
+    password: 5k7QD*bnD2tbM$$
     driver-class-name: com.mysql.cj.jdbc.Driver
   mail:
     host: smtp.gmail.com
